@@ -1,0 +1,12 @@
+---
+title: "Resources"
+output: html_document
+---
+
+<style>
+.title {
+    display: none;
+}
+</style>
+
+Resources:

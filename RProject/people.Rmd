@@ -1,0 +1,14 @@
+---
+title: "People"
+output: html_document
+---
+
+<style>
+.title {
+    display: none;
+}
+</style>
+
+## Principal Investigator
+## Graduate Students
+## Research Assistants
