@@ -9,4 +9,4 @@ output: html_document
 }
 </style>
 
-Welcome!
+Welcome to Marghetis Lab!

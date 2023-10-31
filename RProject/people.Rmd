@@ -9,6 +9,6 @@ output: html_document
 }
 </style>
 
-## Principal Investigator
-## Graduate Students
-## Research Assistants
+# Principal Investigator
+# Graduate Students
+# Research Assistants
