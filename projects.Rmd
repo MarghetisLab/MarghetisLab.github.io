@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "what we study"
 output: html_document
 ---
 
@@ -7,6 +7,19 @@ output: html_document
 .title {
     display: none;
 }
+
 </style>
 
-# Projects
+
+<p style="text-align:center;">If my CV does not appear below, you can <a href="documents/Marghetis_CV-February-2020.pdf" download>download it here</a>.</p>
+
+<p style="text-align:center;">For the most up-to-date list of my published writing, see my [Google Scholar Profile](https://scholar.google.com/citations?user=EQKyL4YAAAAJ&hl=en)</p>
+
+<p style="text-align:center;">Please [get in touch](https://marghetislab.github.io/contact.html) for PDF reprints of any publications.</p>
+
+<embed
+    src="documents/Marghetis_CV-February-2020.pdf"
+    type="application/pdf"
+    width="100%"
+    height="600px"
+/>

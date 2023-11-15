@@ -5,14 +5,20 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "People"
-      href: people.html
-    - text: "Projects"
+    - text: "What we study"
       href: projects.html
+    - text: "Who we are"
+      href: people.html
     - text: "Resources"
       href: resources.html
-      
+    - text: "Get in touch"
+      href: contact.html
+
 output:
   html_document:
     theme: flatly
+    
+#options "default", "bootstrap", "cerulean", "cosmo", "darkly", "flatly", "journal",
+#"lumen", "paper", "readable", "sandstone", "simplex", "spacelab", "united", "yeti" 
+# I like flatly, simplex and yeti, maybe journal? less proffessional.
     
