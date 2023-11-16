@@ -111,8 +111,8 @@ When I'm not tracing the limits of human imagination, you'll find me biking arou
     <img src= "images/RAs/no_image.jpg" alt="photo" width="250" height="250" />
     <figcaption>
         <h2>Chanuwas Aswamenakul</h2>
-        <p>New's bio</p>
-        <p>New's outside the lab</p>
+        <p></p>
+        <p></p>
     </figcaption>
 </figure>
 
