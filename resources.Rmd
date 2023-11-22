@@ -27,7 +27,7 @@ We work to create an environment that is inclusive and anti-racist — a lab whe
 </div>
 
 <h3>Research Assistants</h3>
-<p style="font-size: 16px; padding-left: 2px;"> Looking to become a research Assistant? Fill out our application [here](https://forms.gle/6AkBRiceyc54aB378)!</p>
+<p style="font-size: 16px; padding-left: 2px;"> Looking to become a Research Assistant? Fill out our application [here](https://forms.gle/6AkBRiceyc54aB378)!</p>
 <p style="padding-left: 2px">Enthusiasm required but prior research experience is not! </p>
 <p style="padding-left: 2px">Note: We are currently at full capacity. However, we leave our application open year round so it can be filled out at any time. We typically review applications and reach out around the start of each semester.</p>
 
