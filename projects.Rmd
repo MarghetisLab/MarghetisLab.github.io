@@ -1,5 +1,5 @@
 ---
-title: "what we study"
+title: "What We Study"
 output: html_document
 ---
 
